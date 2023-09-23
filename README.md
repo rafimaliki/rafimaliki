@@ -27,4 +27,4 @@ Currently 3rd semester student of Teknik Informatika at Institut Teknologi Bandu
 
 ## ✨ Social Media:
 
-<a href="[https://www.instagram.com/mgarebaldhie](https://www.instagram.com/rafimaliki_/) " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/rafimaliki_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>

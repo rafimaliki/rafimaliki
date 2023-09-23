@@ -2,13 +2,13 @@
 
 Currently 3rd semester student of Teknik Informatika at Institut Teknologi Bandung
 
-## 🧾 Projects
+## 🧾 Project
 
 | Title  | Language |
 | :-------------: |:-------------:|
 | [My Cute Asprak is My Neighbour](https://drive.google.com/drive/folders/1a7GwMeosk4CvqT_pTlDcohAlKsCeZIE6?usp=sharing)      | Renpy | 
 
-## 💻 Programming Languages
+## 💻 Programming Language
 
  ![Pascal](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)

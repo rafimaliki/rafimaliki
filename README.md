@@ -25,6 +25,6 @@ Currently 3rd semester student of [Teknik Informatika](https://stei.itb.ac.id/pr
 1. 3rd place KSN-K Informatika Kota Tangerang 2020
 2. 2nd place KSN-K Informatika Kota Tangerang 2021
 
-## ✨ Social Media:
+## ✨ Social Media
 
 <a href="https://www.instagram.com/rafimaliki_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>

@@ -1,6 +1,6 @@
 # Hi, I'm Ahmad Rafi Maliki 👋
 
-Currently 3rd semester student of Teknik Informatika at Institut Teknologi Bandung
+Currently 3rd semester student of Teknik Informatika at Institut Teknologi Bandung and a part of lab asisstant at Praktikum Pengenalan Komputasi ITB.
 
 ## 🧾 Project
 
@@ -22,8 +22,8 @@ Currently 3rd semester student of Teknik Informatika at Institut Teknologi Bandu
 
 ## 🏆 Competition
 
-1. Juara 3 KSN-K Informatika Kota Tangerang 2020
-2. Juara 2 KSN-K Informatika Kota Tangerang 2021
+1. 3rd place KSN-K Informatika Kota Tangerang 2020
+2. 2nd place KSN-K Informatika Kota Tangerang 2021
 
 ## ✨ Social Media:
 

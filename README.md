@@ -1,6 +1,6 @@
 # Hi, I'm Ahmad Rafi Maliki 👋
 
-Currently 3rd semester student of [Teknik Informatika](https://stei.itb.ac.id/program-sarjana/sarjana-informatika/) at [Institut Teknologi Bandung](https://www.itb.ac.id/) and a part of lab asisstant at [Praktikum Pengenalan Komputasi ITB](https://www.instagram.com/pengenalan_komputasi/).
+Currently 3rd semester student of [Teknik Informatika](https://stei.itb.ac.id/program-sarjana/sarjana-informatika/) at [Institut Teknologi Bandung](https://www.itb.ac.id/) and a part of lab assistant at [Praktikum Pengenalan Komputasi ITB](https://www.instagram.com/pengenalan_komputasi/).
 
 ## 🧾 Project
 
